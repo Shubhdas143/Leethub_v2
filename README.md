@@ -9,7 +9,7 @@ I use this repo to:
 - Improve coding logic and optimization skills  
 - Build a strong foundation for technical interviews  
 
----
+
 
 ## 🧠 What you’ll find here
 - LeetCode problems across topics like:
@@ -22,14 +22,13 @@ I use this repo to:
 - Clean and structured solutions  
 - Regular updates as I solve more problems  
 
----
 
 ## 🚀 Tools Used
 - **LeetCode**
 - **LeetHub v2 Extension**
 - **GitHub**
 
----
+
 
 ## 🤝 Note
 This repository is for **learning and practice purposes**.  
