@@ -39,3 +39,15 @@ Feel free to explore, learn, or suggest better approaches.
 
 ## ⭐ If you find this helpful, feel free to star the repo!
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Shubhdas143/Leethub_v2/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Shubhdas143/Leethub_v2/tree/master/0046-permutations) |
+<!---LeetCode Topics End-->
