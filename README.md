@@ -61,4 +61,12 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
