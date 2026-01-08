@@ -45,6 +45,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Shubhdas143/Leethub_v2/tree/master/0046-permutations) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhdas143/Leethub_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 ## Backtracking
@@ -70,6 +71,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhdas143/Leethub_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 ## Hash Table
 |  |
