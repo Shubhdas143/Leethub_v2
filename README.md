@@ -44,6 +44,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Shubhdas143/Leethub_v2/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhdas143/Leethub_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
@@ -82,6 +83,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
