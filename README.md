@@ -46,6 +46,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Shubhdas143/Leethub_v2/tree/master/0046-permutations) |
+| [0057-insert-interval](https://github.com/Shubhdas143/Leethub_v2/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhdas143/Leethub_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
