@@ -73,6 +73,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/0058-length-of-last-word) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 ## Dynamic Programming
 |  |
