@@ -45,6 +45,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Shubhdas143/Leethub_v2/tree/master/0066-plus-one) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Recursion
 |  |
 | ------- |
@@ -104,4 +106,8 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
