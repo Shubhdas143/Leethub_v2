@@ -44,6 +44,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -95,6 +96,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 ## Enumeration
 |  |
@@ -115,5 +118,6 @@ Feel free to explore, learn, or suggest better approaches.
 ## Matrix
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
