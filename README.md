@@ -34,6 +34,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubhdas143/Leethub_v2/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shubhdas143/Leethub_v2/tree/master/0031-next-permutation) |
@@ -87,6 +88,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
