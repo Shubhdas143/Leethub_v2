@@ -51,6 +51,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shubhdas143/Leethub_v2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -83,6 +84,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0058-length-of-last-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/0058-length-of-last-word) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,9 +176,11 @@ Feel free to explore, learn, or suggest better approaches.
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Shubhdas143/Leethub_v2/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Shubhdas143/Leethub_v2/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
