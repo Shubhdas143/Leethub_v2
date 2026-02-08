@@ -202,4 +202,16 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
