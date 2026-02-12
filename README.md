@@ -91,6 +91,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 ## Geometry
 |  |
 | ------- |
@@ -214,4 +217,8 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
