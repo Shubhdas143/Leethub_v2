@@ -18,7 +18,8 @@ class Solution {
         }
 
        
-        if (i == n) return false;
+        if (i == n) 
+        return false;
 
         while (i < n && nums[i] > nums[i - 1]) {
             i++;
