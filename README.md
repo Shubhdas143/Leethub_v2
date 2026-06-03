@@ -35,6 +35,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Shubhdas143/Leethub_v2/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubhdas143/Leethub_v2/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shubhdas143/Leethub_v2/tree/master/0031-next-permutation) |
@@ -89,6 +90,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shubhdas143/Leethub_v2/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/0058-length-of-last-word) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -208,6 +210,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shubhdas143/Leethub_v2/tree/master/0014-longest-common-prefix) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Tree
 |  |
