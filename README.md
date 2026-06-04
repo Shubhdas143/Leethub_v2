@@ -80,6 +80,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Shubhdas143/Leethub_v2/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shubhdas143/Leethub_v2/tree/master/0066-plus-one) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Recursion
@@ -90,6 +91,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shubhdas143/Leethub_v2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shubhdas143/Leethub_v2/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/0058-length-of-last-word) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
@@ -106,6 +108,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shubhdas143/Leethub_v2/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
