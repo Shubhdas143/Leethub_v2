@@ -218,17 +218,24 @@ Feel free to explore, learn, or suggest better approaches.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
 ## Counting
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
