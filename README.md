@@ -85,6 +85,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0013-roman-to-integer](https://github.com/Shubhdas143/Leethub_v2/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shubhdas143/Leethub_v2/tree/master/0066-plus-one) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Recursion
 |  |
 | ------- |
@@ -226,11 +227,13 @@ Feel free to explore, learn, or suggest better approaches.
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shubhdas143/Leethub_v2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
