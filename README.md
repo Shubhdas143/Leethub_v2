@@ -78,6 +78,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0002-add-two-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shubhdas143/Leethub_v2/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shubhdas143/Leethub_v2/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shubhdas143/Leethub_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
@@ -133,6 +134,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0031-next-permutation](https://github.com/Shubhdas143/Leethub_v2/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shubhdas143/Leethub_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shubhdas143/Leethub_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -257,4 +259,5 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shubhdas143/Leethub_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
