@@ -48,6 +48,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhdas143/Leethub_v2/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shubhdas143/Leethub_v2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -87,6 +88,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0002-add-two-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Shubhdas143/Leethub_v2/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shubhdas143/Leethub_v2/tree/master/0066-plus-one) |
+| [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -148,6 +150,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhdas143/Leethub_v2/tree/master/1200-minimum-absolute-difference) |
+| [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shubhdas143/Leethub_v2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhdas143/Leethub_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
