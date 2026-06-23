@@ -118,6 +118,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
