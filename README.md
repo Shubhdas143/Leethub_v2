@@ -93,6 +93,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
