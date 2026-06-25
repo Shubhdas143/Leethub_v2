@@ -70,6 +70,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3637-trionic-array-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Shubhdas143/Leethub_v2/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
@@ -136,6 +137,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -275,6 +278,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhdas143/Leethub_v2/tree/master/1189-maximum-number-of-balloons) |
 | [3713-longest-balanced-substring-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -284,4 +288,16 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Shubhdas143/Leethub_v2/tree/master/1833-maximum-ice-cream-bars) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
