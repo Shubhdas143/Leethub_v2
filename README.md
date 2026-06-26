@@ -71,6 +71,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3637-trionic-array-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Shubhdas143/Leethub_v2/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
@@ -138,6 +139,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +178,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -292,12 +295,15 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
