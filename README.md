@@ -53,6 +53,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shubhdas143/Leethub_v2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shubhdas143/Leethub_v2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhdas143/Leethub_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shubhdas143/Leethub_v2/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -112,6 +113,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0058-length-of-last-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/0058-length-of-last-word) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhdas143/Leethub_v2/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3614-process-string-with-special-operations-ii) |
