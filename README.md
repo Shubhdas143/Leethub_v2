@@ -270,6 +270,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shubhdas143/Leethub_v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -278,6 +279,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -285,6 +287,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0110-balanced-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shubhdas143/Leethub_v2/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Counting
@@ -317,4 +320,8 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
