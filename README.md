@@ -58,6 +58,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhdas143/Leethub_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shubhdas143/Leethub_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shubhdas143/Leethub_v2/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -164,6 +165,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -203,6 +205,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +215,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -324,4 +328,9 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubhdas143/Leethub_v2/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
