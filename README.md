@@ -48,6 +48,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhdas143/Leethub_v2/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Shubhdas143/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shubhdas143/Leethub_v2/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shubhdas143/Leethub_v2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -129,6 +130,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhdas143/Leethub_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/Shubhdas143/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubhdas143/Leethub_v2/tree/master/3620-network-recovery-pathways) |
@@ -210,6 +212,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Shubhdas143/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/3286-find-a-safe-walk-through-a-grid) |
