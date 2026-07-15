@@ -107,6 +107,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shubhdas143/Leethub_v2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -386,4 +387,8 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Shubhdas143/Leethub_v2/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shubhdas143/Leethub_v2/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
