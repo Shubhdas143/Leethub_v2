@@ -70,6 +70,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shubhdas143/Leethub_v2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhdas143/Leethub_v2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -107,6 +108,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0066-plus-one](https://github.com/Shubhdas143/Leethub_v2/tree/master/0066-plus-one) |
 | [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhdas143/Leethub_v2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -165,6 +167,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shubhdas143/Leethub_v2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -191,6 +194,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubhdas143/Leethub_v2/tree/master/3620-network-recovery-pathways) |
@@ -218,6 +222,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -350,6 +355,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhdas143/Leethub_v2/tree/master/1189-maximum-number-of-balloons) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
@@ -398,7 +404,12 @@ Feel free to explore, learn, or suggest better approaches.
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhdas143/Leethub_v2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubhdas143/Leethub_v2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhdas143/Leethub_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
