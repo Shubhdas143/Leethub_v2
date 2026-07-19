@@ -132,6 +132,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0013-roman-to-integer](https://github.com/Shubhdas143/Leethub_v2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shubhdas143/Leethub_v2/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/0058-length-of-last-word) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhdas143/Leethub_v2/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -290,6 +291,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shubhdas143/Leethub_v2/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shubhdas143/Leethub_v2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -365,6 +367,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shubhdas143/Leethub_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -416,4 +419,8 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
