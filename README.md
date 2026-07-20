@@ -47,6 +47,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhdas143/Leethub_v2/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shubhdas143/Leethub_v2/tree/master/1288-remove-covered-intervals) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhdas143/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
@@ -246,6 +247,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhdas143/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
@@ -271,6 +273,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shubhdas143/Leethub_v2/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3379-transformed-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
