@@ -80,6 +80,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -115,6 +116,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhdas143/Leethub_v2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubhdas143/Leethub_v2/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -266,6 +268,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Heap (Priority Queue)
