@@ -45,6 +45,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhdas143/Leethub_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhdas143/Leethub_v2/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/1260-shift-2d-grid) |
@@ -112,6 +113,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0012-integer-to-roman](https://github.com/Shubhdas143/Leethub_v2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Shubhdas143/Leethub_v2/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shubhdas143/Leethub_v2/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Shubhdas143/Leethub_v2/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -220,6 +222,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhdas143/Leethub_v2/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhdas143/Leethub_v2/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Shubhdas143/Leethub_v2/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1331-rank-transform-of-an-array) |
