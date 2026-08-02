@@ -48,6 +48,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhdas143/Leethub_v2/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shubhdas143/Leethub_v2/tree/master/1288-remove-covered-intervals) |
@@ -117,6 +118,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0066-plus-one](https://github.com/Shubhdas143/Leethub_v2/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/Shubhdas143/Leethub_v2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
 | [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -171,6 +173,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhdas143/Leethub_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Shubhdas143/Leethub_v2/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhdas143/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -474,4 +477,5 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shubhdas143/Leethub_v2/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
