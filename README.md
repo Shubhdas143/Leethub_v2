@@ -49,6 +49,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Shubhdas143/Leethub_v2/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shubhdas143/Leethub_v2/tree/master/1288-remove-covered-intervals) |
@@ -122,6 +123,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0486-predict-the-winner](https://github.com/Shubhdas143/Leethub_v2/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubhdas143/Leethub_v2/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -183,6 +185,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0486-predict-the-winner](https://github.com/Shubhdas143/Leethub_v2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhdas143/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1406-stone-game-iii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -273,6 +276,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
+| [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
@@ -498,5 +502,14 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shubhdas143/Leethub_v2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
