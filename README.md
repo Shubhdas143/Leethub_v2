@@ -172,6 +172,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhdas143/Leethub_v2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -219,6 +220,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shubhdas143/Leethub_v2/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhdas143/Leethub_v2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -378,6 +380,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shubhdas143/Leethub_v2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhdas143/Leethub_v2/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Graph Theory
 |  |
 | ------- |
