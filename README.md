@@ -63,6 +63,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1833-maximum-ice-cream-bars](https://github.com/Shubhdas143/Leethub_v2/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shubhdas143/Leethub_v2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -137,6 +138,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1510-stone-game-iv](https://github.com/Shubhdas143/Leethub_v2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubhdas143/Leethub_v2/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shubhdas143/Leethub_v2/tree/master/2029-stone-game-ix) |
@@ -208,6 +210,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1406-stone-game-iii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubhdas143/Leethub_v2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubhdas143/Leethub_v2/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubhdas143/Leethub_v2/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -304,6 +307,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubhdas143/Leethub_v2/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -545,6 +549,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1406-stone-game-iii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubhdas143/Leethub_v2/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubhdas143/Leethub_v2/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shubhdas143/Leethub_v2/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -552,12 +557,14 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Shubhdas143/Leethub_v2/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shubhdas143/Leethub_v2/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Shubhdas143/Leethub_v2/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shubhdas143/Leethub_v2/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
