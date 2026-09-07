@@ -178,6 +178,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0013-roman-to-integer](https://github.com/Shubhdas143/Leethub_v2/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shubhdas143/Leethub_v2/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/0058-length-of-last-word) |
+| [0940-distinct-subsequences-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubhdas143/Leethub_v2/tree/master/1189-maximum-number-of-balloons) |
@@ -209,6 +210,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhdas143/Leethub_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Shubhdas143/Leethub_v2/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhdas143/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
