@@ -1,5 +1,5 @@
 
-# 📘 LeetCode Solutions (LeetHub v2)
+# 📘 LeetCode Solutions (LeetHub v2) 
 
 This repository contains my **LeetCode problem solutions**, automatically pushed using the **LeetHub v2 browser extension**.
 
