@@ -280,6 +280,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shubhdas143/Leethub_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shubhdas143/Leethub_v2/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
