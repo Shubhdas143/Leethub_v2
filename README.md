@@ -184,6 +184,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0014-longest-common-prefix](https://github.com/Shubhdas143/Leethub_v2/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shubhdas143/Leethub_v2/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shubhdas143/Leethub_v2/tree/master/0058-length-of-last-word) |
+| [0678-valid-parenthesis-string](https://github.com/Shubhdas143/Leethub_v2/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
@@ -217,6 +218,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhdas143/Leethub_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Shubhdas143/Leethub_v2/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Shubhdas143/Leethub_v2/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Shubhdas143/Leethub_v2/tree/master/1092-shortest-common-supersequence) |
@@ -418,6 +420,7 @@ Feel free to explore, learn, or suggest better approaches.
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Shubhdas143/Leethub_v2/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhdas143/Leethub_v2/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shubhdas143/Leethub_v2/tree/master/1833-maximum-ice-cream-bars) |
@@ -512,6 +515,7 @@ Feel free to explore, learn, or suggest better approaches.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhdas143/Leethub_v2/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shubhdas143/Leethub_v2/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Shubhdas143/Leethub_v2/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubhdas143/Leethub_v2/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhdas143/Leethub_v2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shubhdas143/Leethub_v2/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -617,6 +621,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhdas143/Leethub_v2/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shubhdas143/Leethub_v2/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhdas143/Leethub_v2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhdas143/Leethub_v2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
