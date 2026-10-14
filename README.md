@@ -165,6 +165,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shubhdas143/Leethub_v2/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shubhdas143/Leethub_v2/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Shubhdas143/Leethub_v2/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubhdas143/Leethub_v2/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -441,6 +442,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhdas143/Leethub_v2/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Shubhdas143/Leethub_v2/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
