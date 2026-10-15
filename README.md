@@ -79,6 +79,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhdas143/Leethub_v2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shubhdas143/Leethub_v2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubhdas143/Leethub_v2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -258,6 +259,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhdas143/Leethub_v2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shubhdas143/Leethub_v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shubhdas143/Leethub_v2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Shubhdas143/Leethub_v2/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -541,6 +543,7 @@ Feel free to explore, learn, or suggest better approaches.
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhdas143/Leethub_v2/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -633,4 +636,8 @@ Feel free to explore, learn, or suggest better approaches.
 | [0856-score-of-parentheses](https://github.com/Shubhdas143/Leethub_v2/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhdas143/Leethub_v2/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhdas143/Leethub_v2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
