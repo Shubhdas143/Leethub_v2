@@ -114,6 +114,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3620-network-recovery-pathways](https://github.com/Shubhdas143/Leethub_v2/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3637-trionic-array-i) |
+| [3693-climbing-stairs-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shubhdas143/Leethub_v2/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shubhdas143/Leethub_v2/tree/master/3731-find-missing-elements) |
@@ -246,6 +247,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubhdas143/Leethub_v2/tree/master/3620-network-recovery-pathways) |
+| [3693-climbing-stairs-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
