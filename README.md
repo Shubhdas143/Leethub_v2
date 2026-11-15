@@ -60,6 +60,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1386-cinema-seat-allocation](https://github.com/Shubhdas143/Leethub_v2/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Shubhdas143/Leethub_v2/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubhdas143/Leethub_v2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhdas143/Leethub_v2/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -150,6 +151,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubhdas143/Leethub_v2/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Shubhdas143/Leethub_v2/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Shubhdas143/Leethub_v2/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
@@ -237,6 +239,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1301-number-of-paths-with-max-score](https://github.com/Shubhdas143/Leethub_v2/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubhdas143/Leethub_v2/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/Shubhdas143/Leethub_v2/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhdas143/Leethub_v2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -351,6 +354,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [0560-subarray-sum-equals-k](https://github.com/Shubhdas143/Leethub_v2/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Shubhdas143/Leethub_v2/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubhdas143/Leethub_v2/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Shubhdas143/Leethub_v2/tree/master/1872-stone-game-viii) |
 | [1895-largest-magic-square](https://github.com/Shubhdas143/Leethub_v2/tree/master/1895-largest-magic-square) |
