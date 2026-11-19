@@ -79,6 +79,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shubhdas143/Leethub_v2/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubhdas143/Leethub_v2/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhdas143/Leethub_v2/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shubhdas143/Leethub_v2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubhdas143/Leethub_v2/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shubhdas143/Leethub_v2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -337,6 +338,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Shubhdas143/Leethub_v2/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Shubhdas143/Leethub_v2/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhdas143/Leethub_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shubhdas143/Leethub_v2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubhdas143/Leethub_v2/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhdas143/Leethub_v2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -450,6 +452,7 @@ Feel free to explore, learn, or suggest better approaches.
 | [1927-sum-game](https://github.com/Shubhdas143/Leethub_v2/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shubhdas143/Leethub_v2/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shubhdas143/Leethub_v2/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Shubhdas143/Leethub_v2/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shubhdas143/Leethub_v2/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shubhdas143/Leethub_v2/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubhdas143/Leethub_v2/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
